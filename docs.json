@@ -1,0 +1,9 @@
+{
+  "name": "Flutter",
+  "sidebar": [
+    [
+      "Redux",
+      "/introduce_redux"
+    ]
+  ]
+}
